@@ -1,0 +1,21 @@
+.banner{
+    display: flex;
+    background-color: beige;
+    margin: 30px;
+}
+.h-text{
+    width: 50%;
+    margin: 20px
+}
+.image{
+    padding-right: 100px;
+    border: none;
+    
+}
+.bttn{
+    border: none;
+    border-radius: 20px;
+    margin-left: 20px;
+    background-color: rgb(16, 108, 16);
+    color: white;
+}

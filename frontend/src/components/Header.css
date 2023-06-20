@@ -1,0 +1,8 @@
+.head-bar{
+    background-color: rgb(16, 108, 16);
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 50px;
+    color: white;
+}
