@@ -1,21 +1,21 @@
-.banner{
-    display: flex;
-    background-color: beige;
-    margin: 30px;
+.banner {
+	display: flex;
+	background-color: beige;
+	margin: 0 60px 60px 60px;
 }
-.h-text{
-    width: 50%;
-    margin: 20px
+.h-text {
+	width: 30%;
+	margin: 70px;
 }
-.image{
-    padding-right: 100px;
-    border: none;
-    
+.h-text>h1{
+    color: rgb(16, 108, 16);
 }
-.bttn{
-    border: none;
-    border-radius: 20px;
-    margin-left: 20px;
-    background-color: rgb(16, 108, 16);
-    color: white;
+
+.bttn {
+	border: none;
+	border-radius: 29px;
+	margin-left: 20px;
+	background-color: rgb(16, 108, 16);
+	color: white;
+	padding: 10px 20px;
 }

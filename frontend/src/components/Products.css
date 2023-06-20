@@ -1,6 +1,6 @@
-.products{
-    display: flex;
-    margin: 30px;
-    flex-wrap: wrap;
-    
+.products {
+	display: flex;
+    justify-content: space-around;
+	margin: 0 50px 40px 50px;
+	flex-wrap: wrap;
 }
